@@ -18,8 +18,9 @@
     margin-right: 10px;
 }
 .ahref{
-    background: #CCE5F3;
+    color: #CCE5F3;
     font-family: Inter;
     font-size: 13px;
     font-weight: 400;
+    text-decoration: none;
 }
