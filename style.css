@@ -31,11 +31,13 @@
     width: 100%;
     height: 75px;
     display: flex;
+    justify-content: space-between;
     border-bottom: 1px solid black;
 }
 .logo{
     width: 106px;
     height: 37px;
+    margin-left: 155px;
 }
 .left_header{
     display: flex;
@@ -48,8 +50,9 @@
     color: #fff;
     width: 139px;
     height: 36px;
+    margin-right: 159px;
+    cursor: pointer;
 }
-
 .promoblock{
     width: 100%;
     height: 600px;
@@ -63,3 +66,26 @@
     height: 200px;
     background-color: red;
 }
+.right_header_btn:hover{
+    background-color: #b39d30;
+}
+.right_header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.text_blue{
+    color:#0070A0;
+}   
+.pages_links{
+    margin-left: 24px;
+    cursor: pointer;
+    user-select: none;
+}
+.pages_links:hover{
+    text-decoration: underline;
+}
+#signIn_btn{
+    margin-right: 31px;
+}
+
