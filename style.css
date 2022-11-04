@@ -65,19 +65,51 @@
     justify-content: space-around;
 }
 .boardImg{
-    width: 400px;
-    height: 450px;
+    width: 452px;
+    height: 422px;
     background-color: red;
 }
 .promotxt{
-    width: 400px;
-    height: 450px;
-    background-color: red;
+    width: 525px;
+    height: 321px;
 }
 .txt1{
     width: 100%;
-    height: 100px;
-    background-color: aqua;
+    height: 128px;
+    font-family: Fraunces;
+    font-weight: 400;
+    font-size: 56px;
+}
+.txt2{
+    width: 350px;
+    height: 85px;
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 20px;
+    margin-top: 24px;
+}
+.promoButtons{
+    margin-top: 29px;
+    width: 400px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+}
+.promoTxtRemix{
+    margin-top: 29px;
+    width: 174px;
+    height: 43px;
+    margin-right: 25px;
+    margin-top: 0px;
+}
+.learMore{
+    width: 110px;
+    height: 43px;
+    margin-left: 24px;
+    font-weight: 400;
+    font-family: Inter;
+    font-size: 17px;
+    color: #0070A0;
 }
 .right_header_btn:hover{
     background-color: #b39d30;
