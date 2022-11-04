@@ -51,5 +51,15 @@
 }
 
 .promoblock{
-    width: 100%
+    width: 100%;
+    height: 600px;
+    border-bottom: solid 2px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.promotxt{
+    width: 200px;
+    height: 200px;
+    background-color: red;
 }
