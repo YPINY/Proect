@@ -12,6 +12,14 @@
     background-color: #0070A0;
 }
 .txt{
+    font-family: Inter;
     font-size: 14px;
+    font-weight: 400;
+    margin-right: 10px;
+}
+.ahref{
+    background: #CCE5F3;
+    font-family: Inter;
+    font-size: 13px;
     font-weight: 400;
 }
