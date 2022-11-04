@@ -18,12 +18,14 @@
     font-size: 14px;
     font-weight: 400;
     margin-right: 10px;
+    color: #fff;
 }
 .ahref{
-    background: #CCE5F3;
+    color: #CCE5F3;
     font-family: Inter;
     font-size: 13px;
     font-weight: 400;
+    text-decoration: none;
 }
 .header{
     width: 100%;
@@ -47,3 +49,4 @@
     width: 139px;
     height: 36px;
 }
+    
