@@ -58,7 +58,7 @@
 }
 .promoblock{
     width: 100%;
-    height: 600px;
+    height: 540px;
     border-bottom: solid 2px;
     display: flex;
     align-items: center;
@@ -91,4 +91,39 @@
 #signIn_btn{
     margin-right: 31px;
 }
-
+.trustedBy{
+    height: 96.81px;
+    width: 100%;
+    border: 1px solid #000
+}
+.trustedBy_txtblock{
+    display: flex;
+    justify-content: center;
+}
+.trustedBy_txt{
+    font-size: 22px;
+}
+.focusfox_img{
+    width: 124px;
+    height: 33px;
+}
+.NowInTech_img{
+    width: 159px;
+    height: 27px;
+}
+.optimer_img{
+    width: 148px;
+    height: 33px;
+}
+.carded_img{
+    width: 117px;
+    height: 34px;
+}
+.trustedByImg{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.trustedBy_company_block{
+    display: flex;
+    justify-content: center;
+}
