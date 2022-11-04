@@ -58,16 +58,26 @@
 }
 .promoblock{
     width: 100%;
-    height: 600px;
+    height: 550px;
     border-bottom: solid 2px;
     display: flex;
     align-items: center;
     justify-content: space-around;
 }
-.promotxt{
-    width: 200px;
-    height: 200px;
+.boardImg{
+    width: 400px;
+    height: 450px;
     background-color: red;
+}
+.promotxt{
+    width: 400px;
+    height: 450px;
+    background-color: red;
+}
+.txt1{
+    width: 100%;
+    height: 100px;
+    background-color: aqua;
 }
 .right_header_btn:hover{
     background-color: #b39d30;
