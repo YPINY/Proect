@@ -126,7 +126,6 @@
 .trustedBy{
     height: 96.81px;
     width: 100%;
-    border: 1px solid #000
 }
 .trustedBy_txtblock{
     display: flex;
